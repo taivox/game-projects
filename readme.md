@@ -1,11 +1,11 @@
 #
 Golang game projects.
 
-Snake
+Snake: 
 Use 'w', 's', 'a', 'd' to move snake.
 
-Pong
+Pong: 
 Use 'w', 's', 'keyUp', 'keyDown' to move paddles
 
-Zombie attack
+Zombie attack: 
 Use 'w', 's', 'a', 'd' to move and 'Enter' to shoot
