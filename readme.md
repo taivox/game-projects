@@ -1,11 +1,14 @@
 #
 Golang game projects.
 
-Snake: 
+snake-go: 
 Use 'w', 's', 'a', 'd' to move snake.
 
-Pong: 
+pong-go: 
 Use 'w', 's', 'keyUp', 'keyDown' to move paddles
 
-Zombie attack: 
+zombie attack-go: 
 Use 'w', 's', 'a', 'd' to move and 'Enter' to shoot
+
+rock-paper-scissors-go
+Use "go run ." in root directory and open web browser at "http://localhost:8080/"
